@@ -1,4 +1,5 @@
-# Travaux-Maths-PSB
+# Classification des images de fond de Rétinopathie Diabétique avec du Deep learning couplé à de l'Optimisation des Hyperparamètres
+
 
 # Sommaire
 
